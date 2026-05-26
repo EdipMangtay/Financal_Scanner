@@ -1,0 +1,10 @@
+streamlit>=1.40
+plotly>=6.0
+pandas>=2.1
+numpy>=1.26
+yfinance>=0.2.40
+scipy>=1.13
+requests>=2.31
+lxml>=5.0
+html5lib>=1.1
+beautifulsoup4>=4.12
